@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
-import resume from "../resume/SHUBHI_SHARMA_RESUME.pdf"
+import resume from "../resume/MahimaResume.pdf"
 import AOS from "aos";
 
 export default function About() {
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/1xUwnPYCxPysClH7sqDjKL8la6uYEdgkO/view?usp=drive_link", '_blank');
+    window.open("https://drive.google.com/file/d/1Usn5d4iwU7OxV68ON80Vw-8uzuovW-3a/view?usp=drive_link", '_blank');
   };
 
   useEffect(() => {
@@ -21,17 +21,16 @@ export default function About() {
       <div>
         <div data-aos="fade-up" className=" first">
           <p id="user-detail-intro">
-          Welcome to my coding realm, where I transform coffee into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm Shubhi &nbsp;</p>
+          Welcome to my coding realm, where I transform coffee into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm Mahima &nbsp;</p>
           Tech Enthusiast by Profession, Culinary Adventurer at Heart. I'm a Full Stack Developer hailing from Bhopal, with expertise in HTML, CSS, JavaScript, React, MongoDB, Express, and Node. With a strong foundation in full-stack development, I merge my passion for coding with a love for cooking. From crafting visually appealing user interfaces to developing robust backend solutions, I bring seamless functionality, dynamic user experiences, and delightful flavors to the digital realm. Join me on this exciting journey of innovation and taste!
             <br />
           </p>
           <br />
         </div>
-        <a onClick={handleDownload} rel="noreferrer" href={resume} download={"SHUBHI_SHARMA_RESUME"} id="resume-button-2" className="contact-button resume-button second-btn">
+        <a onClick={handleDownload} rel="noreferrer" href={resume} download={"MahimaResume"} id="resume-button-2" className="contact-button resume-button second-btn">
           Resume</a>
 
-          {/* <a  href={resume} download="SHUBHI_SHARMA_RESUME"><button
-        id="resume-button-2">Resume</button></a> */}
+         
 
       </div>
     </section>

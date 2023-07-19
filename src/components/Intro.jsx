@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../images/pictures/personal.jpg";
+import img1 from "../images/pictures/personal.jpeg";
 import Typewriter from "typewriter-effect";
 
 export default function Intro({ handleClick, boolean }) {
@@ -21,7 +21,7 @@ export default function Intro({ handleClick, boolean }) {
           Hello...<span className="wave"> 👋🏻</span>, My name is
         </div>
         <div id="user-detail-name" className="bio name lighter-red">
-          Shubhi Sharma.
+          Mahima Jaiswal.
         </div>
         <div className="bio what-i-do">
           <Typewriter 
