@@ -18,7 +18,7 @@ export const Github = () => {
         fontSize={16}
         blockSize={15}
         year={2023}
-        username="Bharat-Shaw"
+        username="Mahima-Jaiswal"
       />
       </div>
       <div data-aos="fade-up" style={{display:'flex', justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
@@ -27,22 +27,22 @@ export const Github = () => {
         
         id="github-top-langs"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhi221199&theme=neon&border_radius=2.7"
-          alt="shubhi221199"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima29Jaiswal&theme=neon&border_radius=2.7"
+          alt="Mahima29Jaiswal"
         />
       </div>
       <div  data-aos="fade-up" style={{display:'flex', justifyContent:'center', gap:'10px', marginTop:'3rem'}} id="github-stat" >
         <img
         id="github-stats-card"
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=shubhi221199&theme=neon&border_radius=2.7&show_icons=true"
-          alt="shubhi221199"
+          src="https://github-readme-stats.vercel.app/api?username=Mahima29Jaiswal&theme=neon&border_radius=2.7&show_icons=true"
+          alt="Mahima29Jaiswal"
         />
         <img
         id="github-streak-stats"
           align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=shubhi221199&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
-          alt="shubhi221199"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Mahima29Jaiswal&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
+          alt="Mahima29Jaiswal"
         />
       </div>
     </section>
