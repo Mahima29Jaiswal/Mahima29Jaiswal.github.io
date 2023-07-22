@@ -6,8 +6,8 @@ export default function getProjects() {
         image:'Adventour.png',
         projectTitle: "Adventour",
         projectInfo:
-         "This is a International travel booking website, Adventour which is an International package booking site as a booking service",
-        techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS"],
+         "This is an International travel booking website, Adventour which is an International package booking site as a booking service",
+        techUsed: ["ReactJs", "Redux","Chakra UI", "HTML","Firebase", "CSS"],
         projectLinkHosted: "https://adventour-app.vercel.app/",
         projectLinkGithub: "https://github.com/Bharat-Shaw/Adventour",
       },
@@ -17,7 +17,7 @@ export default function getProjects() {
         image:'trivago.png',
         projectTitle: "Trivago-Clone",
         projectInfo:
-         "trivago’s hotel search allows users to compare hotel prices in just a few clicks from hundreds of booking sites.",
+         "Trivago’s hotel search allows users to compare hotel prices in just a few clicks from hundreds of booking sites.",
         techUsed: ["JavaScript", "HTML", "CSS","Bootsrap"],
         projectLinkHosted: "https://rainbow-capybara-f5a19f.netlify.app/index.html",
         projectLinkGithub: "https://github.com/Mahima29Jaiswal/TrivagoProject",
@@ -31,15 +31,15 @@ export default function getProjects() {
         projectLinkHosted: " https://chimerical-speculoos-a045e4.netlify.app",
         projectLinkGithub: "https://github.com/Mahima29Jaiswal/Netmeds-projectMasai",
       },
-      // {
-      //   id: 4,
-      //   projectTitle: "Oestin- hotels and room booking website",
-      //   image:"oestin.png",
-      //   projectInfo:
-      //     "This website showcases my skills in web development and design, specifically catering to the hospitality industry. With a user-friendly interface and seamless functionality",
-      //   techUsed: ["JavaScript", "HTML", "CSS"],
-      //   projectLinkHosted: "https://team-oestin.netlify.app/",
-      //   projectLinkGithub: "https://github.com/shivamcalis1998/Oestin",
-      // }
+      {
+        id: 4,
+        projectTitle: "TeleMedicine",
+        image:"TeleMedicine.png",
+        projectInfo:
+          "It is an healthcare e-commerce website TeleMedicine sells prescription-based medicines and also health-related Services or consult their issue.",
+        techUsed: ["React","Redux","Chakra UI","Firebase", "HTML", "CSS"],
+        projectLinkHosted: "https://team-oestin.netlify.app/",
+        projectLinkGithub: "https://github.com/shivamcalis1998/Oestin",
+      }
     ];
   }
