@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6476dac.css",
-    "main.js": "/static/js/main.e45c2bbd.js",
+    "main.css": "/static/css/main.d90fef3f.css",
+    "main.js": "/static/js/main.69c5d11e.js",
     "static/media/oestin.png": "/static/media/oestin.52087049857c6a563460.png",
+    "static/media/TeleMedicine.png": "/static/media/TeleMedicine.7be5f286b49328001151.png",
     "static/media/netmeds.png": "/static/media/netmeds.768be96fec20cc0fc0c6.png",
     "static/media/Adventour.png": "/static/media/Adventour.0e70ec83fbd4988e55d3.png",
     "static/media/hotstar.png": "/static/media/hotstar.babcb9e4add460c9ea9e.png",
@@ -12,11 +13,11 @@
     "static/media/trivago.png": "/static/media/trivago.3e6bdbf7302881f145f6.png",
     "static/media/personal.jpeg": "/static/media/personal.a37b446ab96f38eeaf57.jpeg",
     "index.html": "/index.html",
-    "main.d6476dac.css.map": "/static/css/main.d6476dac.css.map",
-    "main.e45c2bbd.js.map": "/static/js/main.e45c2bbd.js.map"
+    "main.d90fef3f.css.map": "/static/css/main.d90fef3f.css.map",
+    "main.69c5d11e.js.map": "/static/js/main.69c5d11e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6476dac.css",
-    "static/js/main.e45c2bbd.js"
+    "static/css/main.d90fef3f.css",
+    "static/js/main.69c5d11e.js"
   ]
 }
