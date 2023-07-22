@@ -3,43 +3,43 @@ export default function getProjects() {
       {
         img:"",
         id: 1,
-        image:'hotstar.png',
-        projectTitle: "HotStar-Clone",
+        image:'Adventour.png',
+        projectTitle: "Adventour",
         projectInfo:
-         "A React Redux Firebase-based web application that replicates the popular streaming platform Hotstar, allowing users to browse and stream their favorite movies, TV shows, and sports events.",
-        techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS","Firebase","BootStrap"],
-        projectLinkHosted: "https://my-hotstar-project.web.app/",
-        projectLinkGithub: "https://github.com/shubhi221199/Hotstar_clone",
+         "This is a International travel booking website, Adventour which is an International package booking site as a booking service",
+        techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS"],
+        projectLinkHosted: "https://adventour-app.vercel.app/",
+        projectLinkGithub: "https://github.com/Bharat-Shaw/Adventour",
       },
       {
         img:"",
         id: 2,
-        image:'kfc.png',
-        projectTitle: "KFC-Clone",
+        image:'trivago.png',
+        projectTitle: "Trivago-Clone",
         projectInfo:
-         "Indulge in Finger-Lickin' Goodness: The KFC Clone - A Tantalizing Twist on Classic Flavors.",
+         "trivago’s hotel search allows users to compare hotel prices in just a few clicks from hundreds of booking sites.",
         techUsed: ["JavaScript", "HTML", "CSS","Bootsrap"],
-        projectLinkHosted: "https://creative-praline-bb6624.netlify.app/",
-        projectLinkGithub: "https://github.com/NafisAamir/kfc-clone",
+        projectLinkHosted: "https://rainbow-capybara-f5a19f.netlify.app/index.html",
+        projectLinkGithub: "https://github.com/Mahima29Jaiswal/TrivagoProject",
       },
       {
         id: 3,
-        projectTitle: "Shop.com-Clone",
-        image:'shop.png',
-        projectInfo: "This is the clone of Shop.com which provide deals on clothes, beauty, shoes & electronics",
-        techUsed: ["vanilaJs", "HTML", "CSS"],
-        projectLinkHosted: "https://darling-travesseiro-cc33f2.netlify.app/",
-        projectLinkGithub: "https://github.com/mithunsen04/Shop.com_Clone",
-      },
-      {
-        id: 4,
-        projectTitle: "Oestin- hotels and room booking website",
-        image:"oestin.png",
-        projectInfo:
-          "This website showcases my skills in web development and design, specifically catering to the hospitality industry. With a user-friendly interface and seamless functionality",
+        projectTitle: "Netmeds.com-Clone",
+        image:'netmeds.png',
+        projectInfo: "Netmeds is an Indian healthcare e-commerce website Netmeds sells prescription-based medicines and also health-related products online.",
         techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://team-oestin.netlify.app/",
-        projectLinkGithub: "https://github.com/shivamcalis1998/Oestin",
-      }
+        projectLinkHosted: " https://chimerical-speculoos-a045e4.netlify.app",
+        projectLinkGithub: "https://github.com/Mahima29Jaiswal/Netmeds-projectMasai",
+      },
+      // {
+      //   id: 4,
+      //   projectTitle: "Oestin- hotels and room booking website",
+      //   image:"oestin.png",
+      //   projectInfo:
+      //     "This website showcases my skills in web development and design, specifically catering to the hospitality industry. With a user-friendly interface and seamless functionality",
+      //   techUsed: ["JavaScript", "HTML", "CSS"],
+      //   projectLinkHosted: "https://team-oestin.netlify.app/",
+      //   projectLinkGithub: "https://github.com/shivamcalis1998/Oestin",
+      // }
     ];
   }

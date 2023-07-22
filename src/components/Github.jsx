@@ -18,7 +18,7 @@ export const Github = () => {
         fontSize={16}
         blockSize={15}
         year={2023}
-        username="Mahima-Jaiswal"
+        username="Mahima29Jaiswal"
       />
       </div>
       <div data-aos="fade-up" style={{display:'flex', justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
