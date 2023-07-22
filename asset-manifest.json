@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.d6476dac.css",
-    "main.js": "/static/js/main.448f87e5.js",
+    "main.js": "/static/js/main.e45c2bbd.js",
     "static/media/oestin.png": "/static/media/oestin.52087049857c6a563460.png",
+    "static/media/netmeds.png": "/static/media/netmeds.768be96fec20cc0fc0c6.png",
+    "static/media/Adventour.png": "/static/media/Adventour.0e70ec83fbd4988e55d3.png",
     "static/media/hotstar.png": "/static/media/hotstar.babcb9e4add460c9ea9e.png",
     "static/media/kfc.png": "/static/media/kfc.27b9bd98bc8ad974a8d4.png",
     "static/media/shop.png": "/static/media/shop.e3b1e0c7a351e4452de5.png",
     "static/media/MahimaResume.pdf": "/static/media/MahimaResume.22fe5cacaa37937de7f2.pdf",
+    "static/media/trivago.png": "/static/media/trivago.3e6bdbf7302881f145f6.png",
     "static/media/personal.jpeg": "/static/media/personal.a37b446ab96f38eeaf57.jpeg",
     "index.html": "/index.html",
     "main.d6476dac.css.map": "/static/css/main.d6476dac.css.map",
-    "main.448f87e5.js.map": "/static/js/main.448f87e5.js.map"
+    "main.e45c2bbd.js.map": "/static/js/main.e45c2bbd.js.map"
   },
   "entrypoints": [
     "static/css/main.d6476dac.css",
-    "static/js/main.448f87e5.js"
+    "static/js/main.e45c2bbd.js"
   ]
 }
