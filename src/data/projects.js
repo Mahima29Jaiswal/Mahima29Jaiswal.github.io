@@ -38,8 +38,8 @@ export default function getProjects() {
         projectInfo:
           "It is an healthcare e-commerce website TeleMedicine sells prescription-based medicines and also health-related Services or consult their issue.",
         techUsed: ["React","Redux","Chakra UI","Firebase", "HTML", "CSS"],
-        projectLinkHosted: "https://team-oestin.netlify.app/",
-        projectLinkGithub: "https://github.com/shivamcalis1998/Oestin",
+        projectLinkHosted: "https://telemedicine-fawn.vercel.app",
+        projectLinkGithub: "https://github.com/nikitaGupta2106/TeleMedicine",
       }
     ];
   }
