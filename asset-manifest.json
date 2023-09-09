@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d90fef3f.css",
-    "main.js": "/static/js/main.46c4c70d.js",
+    "main.js": "/static/js/main.e6e84b1b.js",
+    "static/media/personal.jpg": "/static/media/personal.93cc768ef6d94b59bb68.jpg",
     "static/media/TeleMedicine.png": "/static/media/TeleMedicine.7be5f286b49328001151.png",
     "static/media/netmeds.png": "/static/media/netmeds.768be96fec20cc0fc0c6.png",
     "static/media/Adventour.png": "/static/media/Adventour.0e70ec83fbd4988e55d3.png",
-    "static/media/MahimaResume.pdf": "/static/media/MahimaResume.22fe5cacaa37937de7f2.pdf",
     "static/media/trivago.png": "/static/media/trivago.3e6bdbf7302881f145f6.png",
-    "static/media/personal.jpeg": "/static/media/personal.a37b446ab96f38eeaf57.jpeg",
+    "static/media/MahimaResume.pdf": "/static/media/MahimaResume.8a8e6f59984e5bd6fb06.pdf",
     "index.html": "/index.html",
     "main.d90fef3f.css.map": "/static/css/main.d90fef3f.css.map",
-    "main.46c4c70d.js.map": "/static/js/main.46c4c70d.js.map"
+    "main.e6e84b1b.js.map": "/static/js/main.e6e84b1b.js.map"
   },
   "entrypoints": [
     "static/css/main.d90fef3f.css",
-    "static/js/main.46c4c70d.js"
+    "static/js/main.e6e84b1b.js"
   ]
 }
