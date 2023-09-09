@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../images/pictures/personal.jpeg";
+import img1 from "../images/pictures/personal.jpg";
 import Typewriter from "typewriter-effect";
 
 export default function Intro({ handleClick, boolean }) {
