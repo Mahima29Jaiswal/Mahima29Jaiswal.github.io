@@ -1,10 +1,10 @@
-import resume from "../resume/MahimaResume.pdf"
+import Mahima_Jaiswal_Resume from "../resume/Mahima-Jaiswal-Resume.pdf"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/1ez0GWuaPxTP9Oa9xqr2s4zYP3ybm3hM_/view?usp=sharing', '_blank');
+    window.open('Mahima_Jaiswal_Resume', '_blank');
   };
 
   const topwindows = () => {
@@ -22,7 +22,7 @@ export default function Navbar({ handleClick, boolean }) {
           </a>
         </h1>
         <div className="ham-container">
-          <a rel="noreferrer" href={resume} 
+          <a rel="noreferrer" href={Mahima_Resume} 
           onClick={handleDownload} 
           download={'MahimaResume'} className="contact-button resume-button first-btn">
             Resume
@@ -59,9 +59,9 @@ export default function Navbar({ handleClick, boolean }) {
           </a>
         </li>
       </ul>
-      <a href={resume} 
+      <a href={Mahima_Jaiswal_Resume} 
       onClick={handleDownload} 
-      rel="noreferrer" download={'MahimaResume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
+      rel="noreferrer" download={'Mahima_Jaiswal_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
         Resume</a>
     </nav>
   );
