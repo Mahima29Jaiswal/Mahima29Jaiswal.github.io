@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Mahima_Jaiswal_Resume from "../resume/Mahima-Jaiswal-Resume.pdf"
+import Mahima_Jaiswal_Resume from "../resume/Mahima_Jaiswal_Resume.pdf"
 import AOS from "aos";
 
 export default function About() {
@@ -27,7 +27,8 @@ export default function About() {
           </p>
           <br />
         </div>
-        <button onClick={handleDownload} rel="noreferrer" href={Mahima_Jaiswal_Resume} download={"MahimaResume"} id="resume-button-2" className="contact-button resume-button second-btn">
+        <button onClick={handleDownload} rel="noreferrer" href={Mahima_Jaiswal_Resume
+        } download={"MahimaResume"} id="resume-button-2" className="contact-button resume-button second-btn">
           Resume</button>
 
          

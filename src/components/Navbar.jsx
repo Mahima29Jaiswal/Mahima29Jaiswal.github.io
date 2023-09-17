@@ -1,4 +1,4 @@
-import Mahima_Jaiswal_Resume from "../resume/Mahima-Jaiswal-Resume.pdf"
+import Mahima_Jaiswal_Resume from "../resume/Mahima_Jaiswal_Resume.pdf"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
