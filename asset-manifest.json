@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d90fef3f.css",
-    "main.js": "/static/js/main.a22d2ade.js",
+    "main.js": "/static/js/main.55387e56.js",
     "static/media/personal.jpg": "/static/media/personal.93cc768ef6d94b59bb68.jpg",
     "static/media/TeleMedicine.png": "/static/media/TeleMedicine.7be5f286b49328001151.png",
     "static/media/netmeds.png": "/static/media/netmeds.768be96fec20cc0fc0c6.png",
@@ -10,10 +10,10 @@
     "static/media/Mahima_Jaiswal_Resume.pdf": "/static/media/Mahima_Jaiswal_Resume.8a8e6f59984e5bd6fb06.pdf",
     "index.html": "/index.html",
     "main.d90fef3f.css.map": "/static/css/main.d90fef3f.css.map",
-    "main.a22d2ade.js.map": "/static/js/main.a22d2ade.js.map"
+    "main.55387e56.js.map": "/static/js/main.55387e56.js.map"
   },
   "entrypoints": [
     "static/css/main.d90fef3f.css",
-    "static/js/main.a22d2ade.js"
+    "static/js/main.55387e56.js"
   ]
 }
