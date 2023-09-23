@@ -22,7 +22,7 @@ export default function About() {
         <div data-aos="fade-up" className=" first">
           <p id="user-detail-intro">
           Welcome to my coding realm, where I transform coffee into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm Mahima &nbsp;</p>
-          Tech Enthusiast by Profession, Culinary Adventurer at Heart. I'm a Full Stack Developer hailing from Bhopal, with expertise in HTML, CSS, JavaScript, React, MongoDB, Express, and Node. With a strong foundation in full-stack development, I merge my passion for coding with a love for cooking. From crafting visually appealing user interfaces to developing robust backend solutions, I bring seamless functionality, dynamic user experiences, and delightful flavors to the digital realm. Join me on this exciting journey of innovation and taste!
+          Tech Enthusiast by Profession, Culinary Adventurer at Heart. I'm a Full Stack Developer hailing from Lucknow, with expertise in HTML, CSS, JavaScript, React, MongoDB, Express, and Node. With a strong foundation in full-stack development, I merge my passion for coding with a love for cooking. From crafting visually appealing user interfaces to developing robust backend solutions, I bring seamless functionality, dynamic user experiences, and delightful flavors to the digital realm. Join me on this exciting journey of innovation and taste!
             <br />
           </p>
           <br />
