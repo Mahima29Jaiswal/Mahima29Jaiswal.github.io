@@ -28,7 +28,7 @@ export default function getProjects() {
         image:'netmeds.png',
         projectInfo: "Netmeds is an Indian healthcare e-commerce website Netmeds sells prescription-based medicines and also health-related products online.",
         techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: " https://chimerical-speculoos-a045e4.netlify.app",
+        projectLinkHosted: "https://netmeds-project-masai-la00zngfj-mahima29jaiswal.vercel.app",
         projectLinkGithub: "https://github.com/Mahima29Jaiswal/Netmeds-projectMasai",
       },
       {
